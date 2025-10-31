@@ -1,6 +1,8 @@
 ## Hi there!
-### Im Jack 
-#### Welcome to my Github Profile
+### I'm Jack, Welcome to my Github Profile
+
+Im a Level 4 Student at Leeds Beckett University studying Cyber Security and Digital Forensics. 
+
 
 
 
