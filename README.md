@@ -1,5 +1,8 @@
 ## Hi there!
-### Im Jack, Welcome to my Github Profile. 
+### Im Jack 
+#### Welcome to my Github Profile
+
+
 
 <!--
 **JCourtLBU/JCourtLBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
