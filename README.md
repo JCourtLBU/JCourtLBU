@@ -6,7 +6,7 @@
 
 Im a Level 4 Student at Leeds Beckett University studying Cyber Security and Digital Forensics. 
 
-I have studied Computer Science and Programming at both GCSE and A-Level stages, from 2020-2025. 
+I have studied Computer Science at both GCSE and A-Level stages, from 2020-2025. 
 
 I am a huge fan of football (NFFC🔴⚪) and Formula One (McLaren🟠)
 
