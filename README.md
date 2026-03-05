@@ -13,9 +13,9 @@ I am a huge fan of football (NFFC🔴⚪) and Formula One.
 My profile picture is (unfortunately) not me! It is Daniel Ricciardo, my favourite formula one driver, who retired in 2024. It shows him doing a "Shoey", his trademark celebration for a podium/win. 
 
 ## 💻 Programming Skills
-- **Python:** I am very familiar with python, having used it throughout my studies for the past 5/6 years.
-- **Lua:** I have advanced experience in Lua through Roblox Studio, as I used to script many games and systems in Roblox for both my own projects and for commission.
+- **Python:** I am very familiar with python, having used it throughout my studies for the past 5/6 years, working on many complex projects. 
 - **Java:** I have basic experience and am becoming more familiar with Java through my Object-Oriented Programming unit at university.
+- **Lua:** I have advanced experience in Lua through Roblox Studio, as I used to script many games and systems in Roblox for both my own projects and for commission.
 
 ## 🚀 Programming Project Examples
 
