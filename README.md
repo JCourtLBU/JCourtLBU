@@ -8,7 +8,7 @@ Im a Level 4 Student at Leeds Beckett University studying Cyber Security and Dig
 
 I have studied Computer Science at both GCSE and A-Level stages, from 2020-2025. 
 
-I am a huge fan of football (NFFC🔴⚪) and Formula One (McLaren🟠)
+I am a huge fan of football (NFFC🔴⚪) and Formula One.
 
 My profile picture is (unfortunately) not me! It is Daniel Ricciardo, my favourite formula one driver, who retired in 2024. It shows him doing a "Shoey", his trademark celebration for a podium/win. 
 
