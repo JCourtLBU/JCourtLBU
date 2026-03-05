@@ -15,6 +15,7 @@ My profile picture is (unfortunately) not me! It is Daniel Ricciardo, my favouri
 ## 💻 Programming Skills
 - **Python:** I am very familiar with python, having used it throughout my studies for the past 5/6 years.
 - **Lua:** I have advanced experience in Lua through Roblox Studio, as I used to script many games and systems in Roblox for both my own projects and for commission.
+- **Java:** I have basic experience and am becoming more familiar with Java through my Object-Oriented Programming unit at university.
 
 ## 
 
