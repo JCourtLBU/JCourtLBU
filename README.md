@@ -17,21 +17,26 @@ My profile picture is (unfortunately) not me! It is Daniel Ricciardo, my favouri
 - **Lua:** I have advanced experience in Lua through Roblox Studio, as I used to script many games and systems in Roblox for both my own projects and for commission.
 - **Java:** I have basic experience and am becoming more familiar with Java through my Object-Oriented Programming unit at university.
 
-## 
+## 🚀 Programming Project Examples
 
-
+| Project Title | Language | Description | Repository |
+|---|---|---|---|
+| Computer Science NEA - Smackdown Shenanigans | Python | This was my Non-Exam Assessment (NEA) project for A-Level Computer Science. It was a platform-based, PVP, 2D, street fighter game. It contained basic fighting and movement mechanics, player healthbars, a login system combined with an SQL database, a main menu screen with a 'top 5' leaderboard of the players with the most kills and followed an Object-Oriented Programming style.  | link |
+| F1 Championship Simulator | Python | add desc | link |
 
 <!--
-**JCourtLBU/JCourtLBU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HOW TO EDIT:
 
-Here are some ideas to get you started:
+1. Replace the description and link in the first row with your real project info.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2. To add another project, copy a line like this and paste it below:
+
+| Project Name | Short description of what it does | https://github.com/username/repository |
+
+3. Keep the vertical bars `|` — they separate the columns in Markdown tables.
+
+Example:
+
+| Weather App | A React app that shows live weather using the OpenWeather API | https://github.com/username/weather-app |
+
+--
