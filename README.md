@@ -22,7 +22,7 @@ My profile picture is (unfortunately) not me! It is Daniel Ricciardo, my favouri
 | Project Title | Language | Description | Repository |
 |---|---|---|---|
 | Computer Science NEA - Smackdown Shenanigans | Python | This was my Non-Exam Assessment (NEA) project for A-Level Computer Science. It was a platform-based, PVP, 2D, street fighter game. It contained basic fighting and movement mechanics, player healthbars, a login system combined with an SQL database, a main menu screen with a 'top 5' leaderboard of the players with the most kills and followed an Object-Oriented Programming style.  | link |
-| F1 Championship Simulator | Python | add desc | link |
+| F1 Championship Simulator | Python | add desc | [Link To Project](https://github.com/JCourtLBU/UNI-f1-season-sim/tree/main) |
 
 <!--
 HOW TO EDIT:
