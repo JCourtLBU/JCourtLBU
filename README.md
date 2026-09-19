@@ -31,7 +31,7 @@ A personal cybersecurity project built in Python to analyse authentication logs 
 - Generates timestamped security reports
 - Tested using multiple synthetic datasets
 
-**Technologies:** Python, log analysis, `datetime`, dictionaries, lists, sets
+**Technologies:** Python, log analysis, datetime, dictionaries, lists, sets
 
 [View Project](https://github.com/JCourtLBU/python-security-logs-analyser)
 
