@@ -53,7 +53,6 @@ The project included:
 
 **Language:** Python
 
-[View Project](#)
 
 ### F1 Championship Simulator
 
