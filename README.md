@@ -33,7 +33,7 @@ A personal cybersecurity project built in Python to analyse authentication logs 
 
 **Technologies:** Python, log analysis, `datetime`, dictionaries, lists, sets
 
-[View Project](#)
+[View Project](https://github.com/JCourtLBU/python-security-logs-analyser)
 
 ## 🚀 Programming Projects
 
@@ -53,7 +53,7 @@ The project included:
 
 **Language:** Python
 
-[View Project](https://github.com/JCourtLBU/python-security-logs-analyser)
+[View Project](#)
 
 ### F1 Championship Simulator
 
