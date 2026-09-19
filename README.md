@@ -53,7 +53,7 @@ The project included:
 
 **Language:** Python
 
-[View Project](#)
+[View Project](https://github.com/JCourtLBU/python-security-logs-analyser)
 
 ### F1 Championship Simulator
 
