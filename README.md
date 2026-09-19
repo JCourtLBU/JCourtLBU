@@ -1,42 +1,85 @@
-# Hi there!
+# Hi, I'm Jack 👋
 
-## 🤷🏻 Who Am I?
-### I'm Jack, Welcome to my Github Profile
+I'm currently a Level 5 **Cyber Security and Digital Forensics student at Leeds Beckett University**, currently developing practical skills across cybersecurity, programming and digital forensics.
 
+I'm particularly interested in **cybersecurity, security monitoring, digital forensics and ethical hacking**, and I'm building personal projects alongside my university studies to develop practical experience.
 
-Im a Level 4 Student at Leeds Beckett University studying Cyber Security and Digital Forensics. 
+## 🎓 Education
 
-I have studied Computer Science at both GCSE and A-Level stages, from 2020-2025. 
+- **BSc Cyber Security and Digital Forensics** — Leeds Beckett University
+- **A-Level Computer Science**
+- **GCSE Computer Science**
 
-I am a huge fan of football (NFFC🔴⚪) and Formula One.
+## 💻 Technical Skills
 
-My profile picture is (unfortunately) not me! It is Daniel Ricciardo, my favourite formula one driver, who retired in 2024. It shows him doing a "Shoey", his trademark celebration for a podium/win. 
+- **Python** — Strongest programming language, used throughout my studies and personal projects
+- **Java** — Developing experience through Object-Oriented Programming at university
+- **SQL** — Experience with databases and SQL through university projects
+- **Lua** — Advanced experience from developing games and systems using Roblox Studio
 
-## 💻 Programming Skills
-- **Python:** I am very familiar with python, having used it throughout my studies for the past 6 years, working on many complex projects. 
-- **Java:** I have basic experience and am becoming more familiar with Java through my Object-Oriented Programming unit at university.
-- **Lua:** I have advanced experience in Lua through Roblox Studio, as I used to script many games and systems in Roblox for both my own projects and for commission.
+## 🔐 Cybersecurity Projects
 
-## 🚀 Programming Project Examples
+### Python Security Log Analyser
 
-| Project Title | Language | Description | Repository |
-|---|---|---|---|
-| Computer Science NEA - Smackdown Shenanigans | Python | This was my Non-Exam Assessment (NEA) project for A-Level Computer Science. It was a platform-based, PVP, 2D, street fighter game. It contained basic fighting and movement mechanics, player healthbars, a login system combined with an SQL database, a main menu screen with a 'top 5' leaderboard of the players with the most kills and followed an Object-Oriented Programming style.  | link |
-| F1 Championship Simulator | Python | add desc | [Link To Project](https://github.com/JCourtLBU/UNI-f1-season-sim/tree/main) |
+A personal cybersecurity project built in Python to analyse authentication logs and identify suspicious login activity.
 
-<!--
-HOW TO EDIT:
+- Detects brute-force attacks using time-based thresholds
+- Detects password-spraying attacks across multiple accounts
+- Assigns HIGH and CRITICAL severity levels
+- Handles malformed log entries
+- Calculates login failure rates
+- Generates timestamped security reports
+- Tested using multiple synthetic datasets
 
-1. Replace the description and link in the first row with your real project info.
+**Technologies:** Python, log analysis, `datetime`, dictionaries, lists, sets
 
-2. To add another project, copy a line like this and paste it below:
+[View Project](#)
 
-| Project Name | Short description of what it does | https://github.com/username/repository |
+## 🚀 Programming Projects
 
-3. Keep the vertical bars `|` — they separate the columns in Markdown tables.
+### Computer Science NEA — Smackdown Shenanigans
 
-Example:
+My A-Level Computer Science Non-Exam Assessment project: a 2D platform-based PvP fighting game inspired by the Street Fighter series.
 
-| Weather App | A React app that shows live weather using the OpenWeather API | https://github.com/username/weather-app |
+The project included:
 
---
+- Player movement and combat mechanics
+- Health systems
+- Login and authentication system
+- SQL database integration
+- Main menu and leaderboard system
+- Top-five player leaderboard
+- Object-Oriented Programming principles
+
+**Language:** Python
+
+[View Project](#)
+
+### F1 Championship Simulator
+
+A Python-based Formula 1 championship simulator developed as part of my first-year Fundamentals of Programming module at university.
+
+The project simulates an F1 season, including race results, championship points and driver standings.
+
+**Language:** Python
+
+[View Project](https://github.com/JCourtLBU/UNI-f1-season-sim/tree/main)
+
+## 📚 Currently Learning
+
+I'm currently developing my cybersecurity knowledge through university and personal projects, with a particular focus on:
+
+- Security monitoring and log analysis
+- Digital forensics
+- Ethical hacking
+- Networking
+- Python for cybersecurity
+- Practical security tooling
+
+## ⚽ Outside of Technology
+
+Outside of university and programming, I'm a football fan and support **Nottingham Forest**, as well as being a long-time Formula 1 fan.
+
+---
+
+*This profile documents my ongoing development as a cybersecurity student and the projects I build along the way.*
